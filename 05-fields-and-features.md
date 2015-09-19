@@ -29,8 +29,8 @@
 * When non-shared field re-used in another content type, it's `filed base` **MUST** be moved to `shared fields` feature. This does not happen too often if information architecture is planned properly from the start.
 
 ### Config
-* All state-less system variables are stored in `projectshortname_config` feature.
-* All roles and permissions-to-roles assignments are stored in `projectshortname_config ` feature, while permissions themselves are stored in their respective modules.
+* All state-less system variables **SHOULD** be stored in `projectshortname_config` feature.
+* All roles and permissions-to-roles assignments **SHOULD** be stored in `projectshortname_config ` feature, while permissions themselves are stored in their respective modules.
 
 ### Context
 * All contexts **SHOULD** be stored in a single feature `projectshortname_contexts` to make block management easier.
