@@ -10,3 +10,5 @@
 * [Theme Implementations](08-theme-implementations.md)
 * [JavaScript](09-js.md)
 * [Helpers](10-helpers.md)
+* [Settings](11-settings.md)
+* [File Structure](12-file-structure.md)
