@@ -8,6 +8,7 @@
 3. As project participants, we need a centralised reference for such documentation.
 
 ## Contributing
+* Click on 'Edit this page' link at the top of any page.
 * Subscribe to the [repo](https://github.com/alexdesignworks/drupal-organised) and review new updates as they come in.
 * To discuss anything, please [open an issue](https://github.com/alexdesignworks/drupal-organised/issues/new).
 * For changes, please make changes and [create a Pull Request](https://github.com/alexdesignworks/drupal-organised/compare).
