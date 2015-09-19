@@ -1,5 +1,6 @@
 # Drupal Organised
-## A community-managed guide on best approaches to organise [Drupal](https://www.drupal.org/) projects
+## Community-managed guide on best approaches to organise [Drupal](https://www.drupal.org/) projects
+**All donations are forwarded to Drupal Association.**
 
 ## Why
 1. As developers, we need better organised Drupal websites, because we should not spend days trying to understand what previous developer built and where it is all located.
@@ -11,7 +12,6 @@
 * To discuss anything, please [open an issue](https://github.com/alexdesignworks/drupal-organised/issues/new).
 * For changes, please make changes and [create a Pull Request](https://github.com/alexdesignworks/drupal-organised/compare).
 * Spread the word. We want more people to be involved in building good websites.
-* **All donations will be forwarded to Drupal Association.**
 
 ## Other resources
 * [How Drupal works: a plain(ish) English guide]( http://www.drupaldeconstructed.com)
