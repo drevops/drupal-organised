@@ -5,3 +5,5 @@
 * Modules **MAY** be completely custom or feature-based.
 * For search and navigation simplicity, both custom and feature-based modules **SHOULD** be stored in `sites/all/modules/custom`.
 * Feature-based modules **MAY** contain custom code.
+
+{% include "./footer.md" %}

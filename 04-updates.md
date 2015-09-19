@@ -14,3 +14,5 @@ function MYPROJECT_updates_update_7000() {
 	// code goes here
 }
 ```
+
+{% include "./footer.md" %}

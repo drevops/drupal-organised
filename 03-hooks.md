@@ -31,3 +31,5 @@ function MYMODULE_form_alter(){
   // code goes here
 }
 ```
+
+{% include "./footer.md" %}

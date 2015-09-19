@@ -71,3 +71,5 @@
 ├── README.md
 └── ...
 ```
+
+{% include "./footer.md" %}

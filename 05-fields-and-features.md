@@ -34,3 +34,5 @@
 
 ### Context
 * All contexts **SHOULD** be stored in a single feature `projectshortname_contexts` to make block management easier.
+
+{% include "./footer.md" %}

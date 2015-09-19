@@ -13,3 +13,5 @@ catch (EntityMetadataWrapperException $e) {
   watchdog('yourmodule', $e->getMessage(), NULL, WATCHDOG_ERROR);
 }
 ```
+
+{% include "./footer.md" %}
