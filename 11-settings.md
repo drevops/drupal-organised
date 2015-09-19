@@ -31,7 +31,7 @@
 	
 	* `settings/includes/settings.helpers.inc` Helper functions for early bootstrap stages. An example of such helpers is [features_banish pre-defined variable exclusions](https://gist.github.com/alexdesignworks/1251560643808e456465).
 	
-	* `settings/includes/settings.constants.inc` Site-wide Drupal-related constants. *(@todo: Add link to example gist)*.
+	* `settings/includes/settings.constants.inc` Site-wide Drupal-related constants. An example can be found [here](https://gist.github.com/alexdesignworks/fb676bf08870db0a9906).
 
 		
 * `settings.php` **SHOULD** have all default comments removed.
