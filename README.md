@@ -10,6 +10,7 @@
 * To discuss anything, please [open an issue](https://github.com/alexdesignworks/drupal-organised/issues/new).
 * For changes, please make changes and [create a Pull Request](https://github.com/alexdesignworks/drupal-organised/compare).
 * Spread the word. We want more people to be involved in building good websites.
+* All donations will be forwarded to Drupal Association.
 
 ## Other resources
 * [How Drupal works: a plain(ish) English guide]( http://www.drupaldeconstructed.com)
