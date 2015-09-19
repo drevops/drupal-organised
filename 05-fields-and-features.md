@@ -20,7 +20,7 @@
   * `features_banish` - exclude state variables from UI to avoid constantly overridden features.
   * `features_orphans` - to see what pieces of the site are not yet exported to code.
 
-@todo: Add features image here.
+![](https://raw.githubusercontent.com/alexdesignworks/drupal-organised/master/images/fields_and_features.png)
 
 ### Shared fields
 * Shared fields SHOULD be re-used in new content types.
