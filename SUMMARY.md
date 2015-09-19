@@ -1,4 +1,4 @@
 # Summary
 
 * [Modules](01-modules.md)
-* [Functions](01-functions.md)
+* [Functions](02-functions.md)
