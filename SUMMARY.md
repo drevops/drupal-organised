@@ -6,3 +6,4 @@
 * [Updates](04-updates.md)
 * [Fields and Features](05-fields-and-features.md)
 * [Blocks](06-blocks.md)
+* [Entity Metadata Wrapper](07-entity-metadata-wrapper.md)
