@@ -1,0 +1,10 @@
+{
+    "gitbook": "2.0.1",
+    "plugins": ["edit-link"],
+    "pluginsConfig": {
+            "edit-link": {
+                "base": "https://github.com/alexdesignworks/drupal-organised/edit/master",
+                "label": "Edit This Page"
+            }
+    }
+}
