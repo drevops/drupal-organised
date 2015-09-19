@@ -9,3 +9,4 @@
 * [Entity Metadata Wrapper](07-entity-metadata-wrapper.md)
 * [Theme Implementations](08-theme-implementations.md)
 * [JavaScript](09-js.md)
+* [Helpers](10-helpers.md)
