@@ -29,7 +29,7 @@
 	
 	* `settings/example.settings.env.inc` An example of environment-specific non-secure configuration to simplify usage on different environments. The suffix `env` **MUST** be replaced with a value of  environment variable `$conf['environment']` set in `settings-secure.inc`.
 	
-	* `settings/includes/settings.helpers.inc` Helper functions for early bootstrap stages. *(@todo: Add link to example gist)*.
+	* `settings/includes/settings.helpers.inc` Helper functions for early bootstrap stages. An example of such helpers is [features_banish pre-defined variable exclusions](https://gist.github.com/alexdesignworks/1251560643808e456465).
 	
 	* `settings/includes/settings.constants.inc` Site-wide Drupal-related constants. *(@todo: Add link to example gist)*.
 
