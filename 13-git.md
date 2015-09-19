@@ -1,14 +1,14 @@
 # Git
 
 ## Branches
-* Each story MUST live in it's own branch.
+* Each story **MUST** live in it's own branch.
 
-* Branch name SHOULD be a story number preceded by `issues/` without any additional description.
+* Branch name **SHOULD** be a story number preceded by `issues/` without any additional description.
   * Correct: `issues/PRJ-123`
   * Incorrect: `my-feature`, `PRJ-123`, `issues/PRJ-123-my-feature`
 
 ## Comments
-* Each comment SHOULD start with an issue number(s) inside square braces `[` and `]` followed by a sentence starting with a verb in past tense and properly terminated.
+* Each comment **SHOULD** start with an issue number(s) inside square braces `[` and `]` followed by a sentence starting with a verb in past tense and properly terminated.
   * Correct:
     * `[PRJ-123] Verb in the past tense ending with a dot at the end.`
     * `[PRJ, PRJ-123] Verb in the past tense ending with a dot at the end.`
