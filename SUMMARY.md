@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [How to Read This Guide](01-how-to-read.md)
+* [How to Read This Guide](01-how-to-readmd.md)
 * [Modules](01-modules.md)
 * [Functions](02-functions.md)
 * [Hooks](03-hooks.md)
