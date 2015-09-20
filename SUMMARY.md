@@ -14,5 +14,5 @@
 * [Settings](11-settings.md)
 * [File Structure](12-file-structure.md)
 * [Git](13-git.md)
-* How to Read This Guide
+* [How to Read This Guide](01-how-to-read.md)
 
