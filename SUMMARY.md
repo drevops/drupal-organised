@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Modules](01-modules.md)
 * [Functions](02-functions.md)
 * [Hooks](03-hooks.md)
@@ -13,3 +14,5 @@
 * [Settings](11-settings.md)
 * [File Structure](12-file-structure.md)
 * [Git](13-git.md)
+* How to Read This Guide
+
