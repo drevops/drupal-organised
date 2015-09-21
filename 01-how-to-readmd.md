@@ -6,7 +6,8 @@ The guide covers organisation of files in project, files in module, functions in
 It also covers interaction with git, continuous integration and code linting.
 
 ## Placeholders
-* `projectshortname` Project name abbreviation. Usually used as a prefix for custom modules.
+The following placeholders are used throughout code examples:
 * `mymodule`, `MYMODULE` Generic module name that should be replaced with your own module name. Usually used in hook implementation examples.
+* `projectshortname` Project name abbreviation. Usually used as a prefix for custom modules.
 
 {% include "./footer.md" %}
