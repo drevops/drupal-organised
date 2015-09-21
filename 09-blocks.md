@@ -45,6 +45,6 @@ function MYMODULE_block_view($delta = '') {
 
 * Them templates **SHOULD** be used for each block output. Render arrays are less preferable option. HTML in PHP should be avoided by all means.
 
-* If used in blocks, theme templates **MUST** be stored in the `templates` sub-directory of a module.
+* If used in blocks, theme templates **MUST** be stored in `templates` sub-directory of the module.
 
 {% include "./footer.md" %}
