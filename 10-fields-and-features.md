@@ -24,9 +24,9 @@
 
 ### Shared fields
 * Shared fields **SHOULD** be re-used in new content types.
-* Shared fields' field bases **MUST** be exported into `shared_fields` feature.
+* Shared fields' field bases **MUST** be exported into `projectshortname_shared_fields` feature.
 * Shared fields' fields instances **MUST** be exported into entity-specific features.
-* When non-shared field re-used in another content type, it's `filed base` **MUST** be moved to `shared fields` feature. This does not happen too often if information architecture is planned properly from the start.
+* When non-shared field re-used in another content type, it's `filed base` **MUST** be moved to `projectshortname_shared fields` feature. This does not happen too often if information architecture is planned properly from the start.
 
 ### Config
 * All state-less system variables **SHOULD** be stored in `projectshortname_config` feature.
