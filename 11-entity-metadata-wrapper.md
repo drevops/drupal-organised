@@ -1,6 +1,6 @@
 # Entity Metadata Wrappers
 
-Each appearance `entity_metadata_wrapper()` **MUST** be wrapped with try­-catch block.
+Each appearance `entity_metadata_wrapper()` **MUST** be wrapped with `try­-catch` block.
 
 ```php
 try {
