@@ -1,16 +1,13 @@
 {
-    "gitbook": "2.6.1",
-    "plugins": ["edit-link", "github", "comment@0.0.2"],
+    "gitbook": "2.*.*",
+    "plugins": ["edit-link", "github"],
     "pluginsConfig": {
-            "edit-link": {
-                "base": "https://github.com/alexdesignworks/drupal-organised/edit/master",
-                "label": "Edit This Page"
-            },
-            "github": {
-                "url": "https://github.com/alexdesignworks/drupal-organised"
-            },
-            "comment": {
-                "highlightCommented": "true"
-            }
+        "edit-link": {
+            "base": "https://github.com/alexdesignworks/drupal-organised/edit/master",
+            "label": "Edit This Page"
+        },
+        "github": {
+            "url": "https://github.com/alexdesignworks/drupal-organised"
+        }
     }
 }
