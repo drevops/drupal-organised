@@ -1,6 +1,6 @@
 {
     "gitbook": "2.0.1",
-    "plugins": ["edit-link", "github", "gitbook-plugin-comment"],
+    "plugins": ["edit-link", "github", "comment"],
     "pluginsConfig": {
             "edit-link": {
                 "base": "https://github.com/alexdesignworks/drupal-organised/edit/master",
@@ -9,7 +9,7 @@
             "github": {
                 "url": "https://github.com/alexdesignworks/drupal-organised"
             },
-            "gitbook-plugin-comment": {
+            "comment": {
                 "highlightCommented": "true"
             }
     }
