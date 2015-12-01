@@ -1,7 +1,7 @@
 # Blocks
 
 * Declared using `hook_block_info()` within a module to which the functionality of this block belongs to.
-* Module name ****MUST** NOT** be specified in delta. I.e. instead of `mymodule_myblock` name it `myblock`:
+* Module name **MUST NOT** be specified in delta. I.e. instead of `mymodule_myblock` name it `myblock`:
 
 ```php
 /**
