@@ -1,5 +1,5 @@
 # Drupal Organised
-## Community-managed guide on best approaches to organise [Drupal](https://www.drupal.org/) projects
+## Best practices to organise [Drupal](https://www.drupal.org/) projects
 **All donations are forwarded to Drupal Association.**
 
 ## Why
