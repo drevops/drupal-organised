@@ -30,13 +30,13 @@ Each developer is expected to cleanup own branches in `remote` repository as soo
 **Remove not fully merged local branches:**
 
 ````
-git branch --merged master | egrep -v "master|releases|release|project|develop|ci" | xargs git branch -d
+git branch --merged master | egrep -v "master|releases|release|hotfix|project|develop|ci" | xargs git branch -d
 ```
 
 **Remove not fully merged remote branches:**
 
 ```
-git branch -r --merged | egrep -v "master|releases|release|project|develop|ci" | sed 's/origin\///'|xargs -n 1 git push --delete origin
+git branch -r --merged | egrep -v "master|releases|release|hotfix|project|develop|ci" | sed 's/origin\///'|xargs -n 1 git push --delete origin
 ```
 
 {% include "./footer.md" %}
