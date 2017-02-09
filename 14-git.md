@@ -27,16 +27,42 @@
 ## Cleanup
 Each developer is expected to cleanup own branches in `remote` repository as soon as they merged to main development branch.
 
-**Remove not fully merged local branches:**
+**Remove local branches that were merged into local `develop` branch:**
 
 ````
-git branch --merged master | egrep -v "master|releases|release|hotfix|project|develop|ci" | xargs git branch -d
+git branch --merged develop | egrep -v "master|releases|release|hotfix|project|develop|ci" | xargs git branch -d
+```
+or alias
+```
+#
+# Remove local branches that were merged into main local branch.
+# 
+# Compare with default `develop` branch.
+# git-cleanup
+#
+# Compare with custom `master` branch.
+# git-cleanup master
+#
+git-cleanup() {
+    main=${1:-develop}
+    git branch --merged $main | egrep -v 'master|releases|release|hotfix|project|develop|ci' | xargs git branch -d
+}
 ```
 
-**Remove not fully merged remote branches:**
+**Remove remote branches from remote `orgin` that were merged:**
 
 ```
 git branch -r --merged | egrep -v "master|releases|release|hotfix|project|develop|ci" | sed 's/origin\///'|xargs -n 1 git push --delete origin
+```
+or alias
+```
+
+#
+# Remove remote branches from remote `orgin` that were merged.
+#
+git-cleanup-remote() {
+    git branch -r --merged | egrep -v "master|releases|release|hotfix|project|develop|ci" | sed "s/origin\///" | xargs -n 1 git push --delete origin
+}
 ```
 
 {% include "./footer.md" %}
