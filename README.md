@@ -30,7 +30,9 @@
 
 ## Other resources
 
-* [Drupal best practices](http://goo.gl/TBi6xI) DrupalCamp Melbourne 2014
+* [Drupal best practices](http://goo.gl/TBi6xI) DrupalCamp Melbourne 2014 presentation
 
-  presentation
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytaert](http://buytaert.net/).
 
