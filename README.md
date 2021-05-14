@@ -2,8 +2,6 @@
 
 ## Best practices to organise [Drupal](https://www.drupal.org/) projects
 
-**All donations are forwarded to Drupal Association.**
-
 ## Why
 
 1. As developers, we need better organised Drupal websites, because we should
