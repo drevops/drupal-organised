@@ -1,13 +1,8 @@
 # Hooks
 
-Comments with description of hook functionality **SHOULD NOT** go into the hook
-comment. Instead, it **SHOULD** start just before a part of the code within hook
-implementation.
+Comments with description of hook functionality **SHOULD NOT** go into the hook comment. Instead, it **SHOULD** start just before a part of the code within hook implementation.
 
-This is due to the fact that hooks are not generic functions, which are supposed
-to handle specific logic, but more of a wrappers or "gatherers" of another
-functions and business logic, each piece of which **SHOULD** have own definitive
-comments.
+This is due to the fact that hooks are not generic functions, which are supposed to handle specific logic, but more of a wrappers or "gatherers" of another functions and business logic, each piece of which **SHOULD** have own definitive comments.
 
 **Incorrect**
 
@@ -38,4 +33,3 @@ function MYMODULE_form_alter(){
 }
 ```
 
-{% include "./footer.md" %}

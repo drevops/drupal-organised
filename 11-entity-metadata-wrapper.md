@@ -1,7 +1,6 @@
-# Entity Metadata Wrappers
+# Entity Metadata Wrapper
 
-Each appearance `entity_metadata_wrapper()` **MUST** be wrapped
-with `try­-catch` block.
+Each appearance `entity_metadata_wrapper()` **MUST** be wrapped with `try­-catch` block.
 
 ```php
 try {
@@ -15,4 +14,3 @@ catch (EntityMetadataWrapperException $e) {
 }
 ```
 
-{% include "./footer.md" %}
