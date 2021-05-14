@@ -1,4 +1,4 @@
-# How to Read This Guide
+# Introduction
 
 Although this guide is not a standard, using the most of suggested ideas will make your Drupal site more organised and easy to manage.
 
