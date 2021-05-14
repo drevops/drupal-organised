@@ -9,9 +9,7 @@ It also covers interaction with git, continuous integration and code linting.
 ## Coding standards
 
 * All project code **MUST** comply with [Drupal coding standards](https://www.drupal.org/docs/develop/standards).
-* All project documentation **MUST** comply with [API documentation and comment standards](https://www.drupal.org/coding-standards/docs)
-
-  .
+* All project documentation **MUST** comply with [API documentation and comment standards](https://www.drupal.org/coding-standards/docs).
 
 ## Placeholders
 
@@ -24,4 +22,12 @@ The following placeholders are used throughout code examples:
 * `projectshortname` Project name abbreviation. Usually used as a prefix for
 
   custom modules.
+
+##  Key words for use in RFCs to Indicate Requirement Levels
+Please refer to [RFC2119](https://www.ietf.org/rfc/rfc2119.txt) for meaning of
+words `MUST`, `SHOULD` and `MAY`.
+
+---
+Drupal is a [registered trademark](http://drupal.com/trademark)
+of [Dries Buytaert](http://buytaert.net/).
 
