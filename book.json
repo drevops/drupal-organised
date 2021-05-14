@@ -6,11 +6,11 @@
   ],
   "pluginsConfig": {
     "edit-link": {
-      "base": "https://github.com/alexdesignworks/drupal-organised/edit/master",
+      "base": "https://github.com/drevops/drupal-organised/edit/master",
       "label": "Edit This Page"
     },
     "github": {
-      "url": "https://github.com/alexdesignworks/drupal-organised"
+      "url": "https://github.com/drevops/drupal-organised"
     }
   }
 }

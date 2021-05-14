@@ -94,7 +94,7 @@ Drupal project files structure \(scroll down for more details\):
 
     patches review log. Changes **MUST** be logged once patches added or
 
-    removed. [See example](https://gist.github.com/alexdesignworks/9b40644c8ae6a8a5bf9f)
+    removed. [See example](https://gist.github.com/drevops/9b40644c8ae6a8a5bf9f)
 
     for a format of this file.
 

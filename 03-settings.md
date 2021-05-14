@@ -25,8 +25,8 @@
   * `example.settings-secure.inc` An example of environment-specific configuration to simplify usage on different environments.
   * `settings/settings.dev.inc` Environment-specific non-secure configuration. The suffix is based on the environment variable `$conf['environment']` set in `settings-secure.inc`.
   * `settings/example.settings.env.inc` An example of environment-specific non-secure configuration to simplify usage on different environments. The suffix `env` **MUST** be replaced with a value of environment variable `$conf['environment']` set in `settings-secure.inc`.
-  * `settings/includes/settings.helpers.inc` Helper functions for early bootstrap stages. An example of such helpers is [features\_banish pre-defined variable exclusions](https://gist.github.com/alexdesignworks/1251560643808e456465).
-  * `settings/includes/settings.constants.inc` Site-wide Drupal-related constants. An example can be found [here](https://gist.github.com/alexdesignworks/fb676bf08870db0a9906).
+  * `settings/includes/settings.helpers.inc` Helper functions for early bootstrap stages. An example of such helpers is [features\_banish pre-defined variable exclusions](https://gist.github.com/drevops/1251560643808e456465).
+  * `settings/includes/settings.constants.inc` Site-wide Drupal-related constants. An example can be found [here](https://gist.github.com/drevops/fb676bf08870db0a9906).
 * `settings.php` **SHOULD** have all default comments removed.
 * `settings.php` **MUST** contain the following lines to load all other settings inclusions:
 

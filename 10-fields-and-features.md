@@ -35,7 +35,7 @@
 
     to code.
 
-![](https://raw.githubusercontent.com/alexdesignworks/drupal-organised/master/images/fields_and_features.png)
+![](https://raw.githubusercontent.com/drevops/drupal-organised/master/images/fields_and_features.png)
 
 ### Shared fields
 

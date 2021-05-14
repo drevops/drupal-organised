@@ -23,19 +23,19 @@
 ## Contributing
 
 * Click on 'Edit this page' link at the top of any page.
-* Subscribe to the [repo](https://github.com/alexdesignworks/drupal-organised)
+* Subscribe to the [repo](https://github.com/drevops/drupal-organised)
 
   and review new updates as they come in.
 
 * To discuss anything,
 
-  please [open an issue](https://github.com/alexdesignworks/drupal-organised/issues/new)
+  please [open an issue](https://github.com/drevops/drupal-organised/issues/new)
 
   .
 
 * For changes, please make changes
 
-  and [create a Pull Request](https://github.com/alexdesignworks/drupal-organised/compare)
+  and [create a Pull Request](https://github.com/drevops/drupal-organised/compare)
 
   .
 
