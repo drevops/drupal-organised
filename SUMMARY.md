@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Introduction](how-to-read-this-guide.md)
+* [How to read this guide](how-to-read-this-guide.md)
 * [Modules](modules.md)
 * [Functions](functions.md)
 * [Hooks](hooks.md)
