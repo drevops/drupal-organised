@@ -22,7 +22,7 @@
     * `some stuff`
     * `PRJ-123 Adding a feature`
     * `[prj-123] Adding a feature`
-* It is highly advised to use a git `commit-msg` hook to automatically validate the format of commits. Use [https://github.com/drevops/git-hooks](https://github.com/drevops/git-hooks) to instal such hook implementation \(a 1-liner command ran from your project git repo\).
+* It is highly advised to use a git `commit-msg` hook to automatically validate the format of commits. Use [https://github.com/AlexSkrypnyk/git-hooks ](https://github.com/AlexSkrypnyk/git-hooks)to instal such hook implementation \(a 1-liner command ran from your project git repo\).
 
 ## Cleanup
 

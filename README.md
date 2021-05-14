@@ -23,27 +23,13 @@
 ## Contributing
 
 * Click on 'Edit this page' link at the top of any page.
-* Subscribe to the [repo](https://github.com/drevops/drupal-organised)
-
-  and review new updates as they come in.
-
-* To discuss anything,
-
-  please [open an issue](https://github.com/drevops/drupal-organised/issues/new)
-
-  .
-
-* For changes, please make changes
-
-  and [create a Pull Request](https://github.com/drevops/drupal-organised/compare)
-
-  .
-
+* Subscribe to the [repo](https://github.com/drevops/drupal-organised) and review new updates as they come in.
+* To discuss anything, please open an issue.
+* For changes, please make changes and [create a Pull Request](https://github.com/drevops/drupal-organised/compare).
 * Spread the word. We want more people to be involved in building good websites.
 
 ## Other resources
 
-* [How Drupal works: a plain\(ish\) English guide](http://www.drupaldeconstructed.com)
 * [Drupal best practices](http://goo.gl/TBi6xI) DrupalCamp Melbourne 2014
 
   presentation
