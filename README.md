@@ -29,7 +29,14 @@
 ## Other resources
 
 * [DrevOps](https://DrevOps.com) - Build, Test, Deploy scripts for Drupal using Docker and CI/CD
-* [Drupal best practices](http://goo.gl/TBi6xI) DrupalCamp Melbourne 2014 presentation
+* [Drupal module testing in CircleCI](https://github.com/integratedexperts/drupal_circleci)
+* [MariaDB Docker image with enclosed data](https://github.com/drevops/mariadb-drupal-data) - Docker image to capture database data as a Docker layer.
+* [CI Builder Docker image](https://github.com/drevops/ci-builder) - Docker image for CI builder container with many pre-installed tools.
+* [Code Artifact Builder](https://github.com/integratedexperts/robo-git-artefact) - Robo task to push git artefact to remote repository.
+* [GitHub Labels](https://github.com/integratedexperts/github-labels) - Shell script to create labels on GitHub.
+* [Behat Steps](https://github.com/integratedexperts/behat-steps) - Collection of Behat step definitions.
+* [Behat Screenshot](https://github.com/integratedexperts/behat-screenshot) - Behat extension and a step definition to create HTML and image screenshots on demand or test fail.
+* [Behat Progress Fail](https://github.com/integratedexperts/behat-format-progress-fail) - Behat output formatter to show progress as TAP and fails inline.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
