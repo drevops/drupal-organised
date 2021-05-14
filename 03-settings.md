@@ -2,7 +2,7 @@
 
 * `settings.php` **MUST** be split into many files.
 * File structure **SHOULD** be as close as possible to the following:
-*	```
+*    ```
 	.
 	├── docroot
 	│   ├── sites
@@ -33,10 +33,11 @@
 	
 	* `settings/includes/settings.constants.inc` Site-wide Drupal-related constants. An example can be found [here](https://gist.github.com/alexdesignworks/fb676bf08870db0a9906).
 
-		
+
 * `settings.php` **SHOULD** have all default comments removed.
 
-* `settings.php` **MUST** contain the following lines to load all other settings inclusions:
+* `settings.php` **MUST** contain the following lines to load all other settings
+  inclusions:
 
 ```php
 <?php

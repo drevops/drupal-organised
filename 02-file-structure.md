@@ -1,6 +1,7 @@
 # File structure
 
 Drupal project files structure (scroll down for more details):
+
 ```
 .
 ├── .git
@@ -73,11 +74,18 @@ Drupal project files structure (scroll down for more details):
 └── ...
 ```
 
-* `docroot` Directory with Drupal site installation. Having this directory 1 level deeper than a project root allows to store non-web related files outside of publicly accessible directory.
+* `docroot` Directory with Drupal site installation. Having this directory 1
+  level deeper than a project root allows to store non-web related files outside
+  of publicly accessible directory.
 * `patches` Directory with all patches applied to core and contrib modules.
-  * The contents of this directory is not accessible to the public.
-  * Each module's patch **MUST** be stored under module machine name directory.
-  * The patch name **MUST** not be changed if it was downloaded from drupal.org.
-  * `PATCHED.txt` File with a list of accepted and custom patches as well as patches review log. Changes **MUST** be logged once patches added or removed. [See example](https://gist.github.com/alexdesignworks/9b40644c8ae6a8a5bf9f) for a format of this file. 
+    * The contents of this directory is not accessible to the public.
+    * Each module's patch **MUST** be stored under module machine name
+      directory.
+    * The patch name **MUST** not be changed if it was downloaded from
+      drupal.org.
+    * `PATCHED.txt` File with a list of accepted and custom patches as well as
+      patches review log. Changes **MUST** be logged once patches added or
+      removed. [See example](https://gist.github.com/alexdesignworks/9b40644c8ae6a8a5bf9f)
+      for a format of this file.
 
 {% include "./footer.md" %}
