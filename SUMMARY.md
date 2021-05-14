@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [How to Read This Guide](01-how-to-read.md)
+* [How to Read This Guide](how-to-read-this-guide.md)
 * [File Structure](02-file-structure.md)
 * [Settings](03-settings.md)
 * [Modules](04-modules.md)

@@ -8,13 +8,8 @@ It also covers interaction with git, continuous integration and code linting.
 
 ## Coding standards
 
-* All project code **MUST** comply
-
-  with [Drupal coding standards](https://www.drupal.org/coding-standards).
-
-* All project documentation **MUST** comply
-
-  with [API documentation and comment standards](https://www.drupal.org/coding-standards/docs)
+* All project code **MUST** comply with [Drupal coding standards](https://www.drupal.org/docs/develop/standards).
+* All project documentation **MUST** comply with [API documentation and comment standards](https://www.drupal.org/coding-standards/docs)
 
   .
 
