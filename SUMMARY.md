@@ -8,8 +8,8 @@
 * [Updates](updates.md)
 * [Theme Implementations](theme-implementations.md)
 * [Blocks](blocks.md)
-* [Fields](fields/README.md)
-  * [Settings](fields/settings.md)
+* [Fields](fields.md)
+* [Settings](settings.md)
 * [JavaScript](javascript.md)
 * [Git](git.md)
 

@@ -1,4 +1,4 @@
-# Introduction
+# How to read this guide
 
 Although this guide is not a standard, using the most of suggested ideas will make your Drupal site more organised and easy to manage.
 
@@ -23,11 +23,11 @@ The following placeholders are used throughout code examples:
 
   custom modules.
 
-##  Key words for use in RFCs to Indicate Requirement Levels
-Please refer to [RFC2119](https://www.ietf.org/rfc/rfc2119.txt) for meaning of
-words `MUST`, `SHOULD` and `MAY`.
+## Key words for use in RFCs to Indicate Requirement Levels
 
----
-Drupal is a [registered trademark](http://drupal.com/trademark)
-of [Dries Buytaert](http://buytaert.net/).
+Please refer to [RFC2119](https://www.ietf.org/rfc/rfc2119.txt) for meaning of words `MUST`, `SHOULD` and `MAY`.
+
+
+
+Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytaert](http://buytaert.net/).
 
