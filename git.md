@@ -3,7 +3,7 @@
 ## Branches
 
 * Each story **MUST** live in it's own branch.
-* Branch name **SHOULD** be a story number preceded by `feature/` without any additional description.
+* Branch name **SHOULD** be a story number preceded by `feature/` without any additional description
   * Correct: `feature/PRJ-123`
   * Incorrect: `my-feature`, `PRJ-123`, `features/PRJ-123-my-feature`
 
