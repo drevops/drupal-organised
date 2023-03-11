@@ -1,22 +1,22 @@
-# Introduction
+---
+description: Best practices to organise Drupal projects
+---
 
-## Best practices to organise [Drupal](https://www.drupal.org/) projects
+# Introduction
 
 ## Why
 
-1. As developers, we need better organised Drupal websites, because we should
+1.  As developers, we need better organised Drupal websites, because we should
 
-   not spend days trying to understand what previous developer built and where
+    not spend days trying to understand what previous developer built and where
 
-   it is all located.
+    it is all located.
+2.  As community members, we want to rely on community experience to make this a
 
-2. As community members, we want to rely on community experience to make this a
+    truly community-driven guide.
+3.  As project participants, we need a centralised reference for such
 
-   truly community-driven guide.
-
-3. As project participants, we need a centralised reference for such
-
-   documentation.
+    documentation.
 
 ## Contributing
 
@@ -28,8 +28,8 @@
 
 ## Other resources
 
-* [DrevOps](https://DrevOps.com) - Build, Test, Deploy scripts for Drupal using Docker and CI/CD
-* [Drupal module testing in CircleCI](https://github.com/integratedexperts/drupal_circleci)
+* [DrevOps](https://drevops.com) - Build, Test, Deploy scripts for Drupal using Docker and CI/CD
+* [Drupal module testing in CircleCI](https://github.com/integratedexperts/drupal\_circleci)
 * [MariaDB Docker image with enclosed data](https://github.com/drevops/mariadb-drupal-data) - Docker image to capture database data as a Docker layer.
 * [CI Builder Docker image](https://github.com/drevops/ci-builder) - Docker image for CI builder container with many pre-installed tools.
 * [Code Artifact Builder](https://github.com/integratedexperts/robo-git-artefact) - Robo task to push git artefact to remote repository.
@@ -38,7 +38,6 @@
 * [Behat Screenshot](https://github.com/integratedexperts/behat-screenshot) - Behat extension and a step definition to create HTML and image screenshots on demand or test fail.
 * [Behat Progress Fail](https://github.com/integratedexperts/behat-format-progress-fail) - Behat output formatter to show progress as TAP and fails inline.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+***
 
 Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytaert](http://buytaert.net/).
-

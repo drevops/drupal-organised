@@ -15,19 +15,15 @@ It also covers interaction with git, continuous integration and code linting.
 
 The following placeholders are used throughout code examples:
 
-* `mymodule`, `MYMODULE` Generic module name that should be replaced with your
+*   `mymodule`, `MYMODULE` - Generic module name that should be replaced with your
 
-  own module name. Usually used in hook implementation examples.
+    own module name. Usually used in hook implementation examples.
+*   `projectshortname` - Project name abbreviation. Usually used as a prefix for
 
-* `projectshortname` Project name abbreviation. Usually used as a prefix for
-
-  custom modules.
+    custom modules.
 
 ## Key words for use in RFCs to Indicate Requirement Levels
 
 Please refer to [RFC2119](https://www.ietf.org/rfc/rfc2119.txt) for meaning of words `MUST`, `SHOULD` and `MAY`.
 
-
-
 Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytaert](http://buytaert.net/).
-
