@@ -37,7 +37,3 @@ description: Best practices to organise Drupal projects
 * [Behat Steps](https://github.com/integratedexperts/behat-steps) - Collection of Behat step definitions.
 * [Behat Screenshot](https://github.com/integratedexperts/behat-screenshot) - Behat extension and a step definition to create HTML and image screenshots on demand or test fail.
 * [Behat Progress Fail](https://github.com/integratedexperts/behat-format-progress-fail) - Behat output formatter to show progress as TAP and fails inline.
-
-***
-
-Drupal is a [registered trademark](http://drupal.com/trademark) of [Dries Buytaert](http://buytaert.net/).
